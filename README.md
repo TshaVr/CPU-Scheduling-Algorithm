@@ -1,4 +1,4 @@
-## CPU Scheduling Algorithms in Python: SJN, Priority Preemptive, and Round Robin
+## CPU Scheduling Algorithms in Python: SJN, Priority Preemptive, and Round Robin 💾
 
 This repository contains the Python implementations of three CPU scheduling algorithms:
 
